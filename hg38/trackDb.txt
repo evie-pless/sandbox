@@ -1,11 +1,12 @@
 track capillaryEndothelial
-bigDataUrl https://raw.githubusercontent.com/username/repo/main/TFBS_capillary_endothelial.bw
+bigDataUrl https://raw.githubusercontent.com/evie-pless/sandbox/main/TFBS_capillary_endothelial.bw
 shortLabel Capillary Endo
 longLabel TFBS Capillary Endothelial Cells
 type bigWig
 
 track otherCellTypes
-bigDataUrl https://raw.githubusercontent.com/username/repo/main/TFBS_other_cell_types.bw
+bigDataUrl https://raw.githubusercontent.com/evie-pless/sandbox/main/TFBS_other_cell_types.bw
 shortLabel Other Cells
 longLabel TFBS Other Cell Types
 type bigWig
+

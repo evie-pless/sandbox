@@ -1,0 +1,5 @@
+hub FOXF1 TFBS
+shortLabel FOXF1 TFBS
+longLabel TFBS bigwig for FOXF1 regulatory regions
+genomesFile genomes.txt
+email eviepless@gmail.com

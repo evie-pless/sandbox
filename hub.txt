@@ -1,5 +1,19 @@
 hub FOXF1_TFBS
 shortLabel FOXF1 TFBS
 longLabel TFBS bigwig for FOXF1 regulatory regions
-genomesFile genomes.txt
+useOneFile on
 email eviepless@gmail.com
+
+genome hg38
+
+track capillaryEndothelial
+bigDataUrl https://raw.githubusercontent.com/evie-pless/sandbox/main/TFBS_capillary_endothelial.bw
+shortLabel Capillary Endo
+longLabel TFBS Capillary Endothelial Cells
+type bigWig
+
+track otherCellTypes
+bigDataUrl https://raw.githubusercontent.com/evie-pless/sandbox/main/TFBS_other_cell_types.bw
+shortLabel Other Cells
+longLabel TFBS Other Cell Types
+type bigWig
